@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/My-Portfolio/static/css/main.bd02c388.css",
+    "main.js": "/My-Portfolio/static/js/main.f01035cf.js",
+    "static/media/image.png": "/My-Portfolio/static/media/image.a7bfd8505eda4fd0e630.png",
+    "static/media/portfolio-6.png": "/My-Portfolio/static/media/portfolio-6.4a10fac7d271e87859e9.png",
+    "static/media/portfolio-2.png": "/My-Portfolio/static/media/portfolio-2.33d06b368b4e6395030e.png",
+    "static/media/portfolio-4.png": "/My-Portfolio/static/media/portfolio-4.8e8bac5e33dc3f211e2b.png",
+    "static/media/portfolio-1.png": "/My-Portfolio/static/media/portfolio-1.b33adf772d54ab33e953.png",
+    "static/media/portfolio-5.png": "/My-Portfolio/static/media/portfolio-5.bf754db8618dd60ec6f1.png",
+    "static/media/portfolio-3.png": "/My-Portfolio/static/media/portfolio-3.ca4192894d93b08ad3b5.png",
+    "static/media/facebook.png": "/My-Portfolio/static/media/facebook.81dd033a37c4860f7121.png",
+    "static/media/adobe.png": "/My-Portfolio/static/media/adobe.a08b8360ff7b700ed0c4.png",
+    "static/media/walmart.png": "/My-Portfolio/static/media/walmart.1d2b5e5c5c5a8e2bd5ce.png",
+    "static/media/ui-design.png": "/My-Portfolio/static/media/ui-design.c4acd455fc2040eddcc8.png",
+    "static/media/instagram.png": "/My-Portfolio/static/media/instagram.0bcd1dcb7d853c327af7.png",
+    "index.html": "/My-Portfolio/index.html",
+    "main.bd02c388.css.map": "/My-Portfolio/static/css/main.bd02c388.css.map",
+    "main.f01035cf.js.map": "/My-Portfolio/static/js/main.f01035cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd02c388.css",
+    "static/js/main.f01035cf.js"
+  ]
+}
